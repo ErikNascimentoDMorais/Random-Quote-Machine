@@ -1,0 +1,21 @@
+body {
+  background: rgb(235, 201, 122);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#box {
+  color: black;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 25px;
+  border-radius: 15px;
+  font-family: "Georgia", serif;
+}
+#box #quote {
+  font-size: 35px;
+}
+#box #author {
+  font-size: 25px;
+}/*# sourceMappingURL=style.css.map */
